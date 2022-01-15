@@ -1,0 +1,21 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "A todo-list written with Vanilla Javascript and Typescript with Styling.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harry-Hopkinson/todo-list.git"
+  },
+  "keywords": [],
+  "author": "Harry Hopkinson",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+  "homepage": "https://github.com/Harry-Hopkinson/todo-list#readme"
+  }
+}
