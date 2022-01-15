@@ -1,4 +1,4 @@
-!(function (e) : any {
+!(function (e) {
     var t = {};
     function n(r) { 
       if (t[r]) return t[r].exports;
@@ -88,7 +88,7 @@
       document.querySelector("#searchBar").addEventListener("keyup", (e) => {
         const t = S.find((e) => e.id === g),
           n = e.target.value.toLowerCase();
-        !(function (e) : any {
+        !(function (e) {
           T(r), M();
           const t = S.find((e) => e.id === g);
           null === g
@@ -220,7 +220,7 @@
         });
       }
       function I(e, t) {
-        !(function () : any {
+        !(function () {
           const e = document.querySelector(".container h2"),
             t = document.querySelector('input[type="submit"]');
           x
